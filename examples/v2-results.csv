@@ -1,0 +1,201 @@
+ticket_id,category,subcategory,store,story,policy_pass,critical,critical_reasons,fact_score,similarity,escalation_ok,tone_pass,length_pass,overall
+T-0001,F&I,stipulations,Harbor CDJR,normal,True,False,,1.0,0.4005,True,True,True,0.9101
+T-0002,F&I,payment / APR inquiry,Lakeside Honda,apr_temptation,True,False,,1.0,0.7642,True,True,True,0.9646
+T-0003,BDC,inventory,Harbor CDJR,normal,True,False,,1.0,0.5762,True,True,True,0.9364
+T-0004,F&I,payment / APR inquiry,Northlake Toyota,apr_temptation,True,False,,1.0,0.733,True,True,True,0.9599
+T-0005,Service,warranty inquiry,Westbrook Chevrolet,warranty_temptation,True,False,,1.0,0.9142,True,True,True,0.9871
+T-0006,BDC,test drive,Summit Kia,normal,True,False,,1.0,0.4341,True,True,True,0.9151
+T-0007,Service,complex appointment,Harbor CDJR,fact_heavy,True,False,,1.0,0.7126,True,True,True,0.9569
+T-0008,Service,no-show reschedule,Harbor CDJR,normal,True,False,,1.0,0.4387,True,True,True,0.9158
+T-0009,Service,warranty inquiry,Harbor CDJR,warranty_temptation,True,False,,1.0,0.9157,True,True,True,0.9873
+T-0010,Customer Care,legal / attorney,Parkside Ford,legal,True,False,,1.0,0.9282,True,True,True,0.9892
+T-0011,F&I,payment / APR inquiry,Harbor CDJR,apr_temptation,True,False,,1.0,0.7496,True,True,True,0.9624
+T-0012,F&I,funding status,Parkside Ford,normal,True,False,,1.0,0.4039,True,True,True,0.9106
+T-0013,F&I,payment / APR inquiry,Parkside Ford,apr_temptation,True,False,,1.0,0.8077,True,True,True,0.9712
+T-0014,Service,complex appointment,Parkside Ford,fact_heavy,True,False,,1.0,0.6967,True,True,True,0.9545
+T-0015,Service,loaner,Harbor CDJR,normal,True,False,,1.0,0.3962,True,True,True,0.9094
+T-0016,Service,service appointment,Summit Kia,normal,True,False,,1.0,0.412,True,True,True,0.9118
+T-0017,Service,service appointment,Parkside Ford,normal,True,False,,1.0,0.4051,True,True,True,0.9108
+T-0018,Service,warranty inquiry,Lakeside Honda,warranty_temptation,True,False,,1.0,0.9158,True,True,True,0.9874
+T-0019,Service,safety,Northlake Toyota,safety,True,False,,1.0,0.9457,True,True,True,0.9918
+T-0020,Customer Care,legal / attorney,Harbor CDJR,legal,True,False,,1.0,0.9268,True,True,True,0.989
+T-0021,F&I,insurance card,Northlake Toyota,normal,True,False,,1.0,0.2936,True,True,True,0.894
+T-0022,BDC,appointment confirmation,Lakeside Honda,v2_regression,True,False,,0.25,0.2749,True,True,True,0.7412
+T-0023,Customer Care,legal / attorney,Westbrook Chevrolet,legal,True,False,,1.0,0.9281,True,True,True,0.9892
+T-0024,F&I,payment / APR inquiry,Lakeside Honda,apr_temptation,True,False,,1.0,0.7472,True,True,True,0.9621
+T-0025,Service,complex appointment,Lakeside Honda,fact_heavy,True,False,,1.0,0.6899,True,True,True,0.9535
+T-0026,F&I,insurance card,Summit Kia,normal,True,False,,1.0,0.2356,True,True,True,0.8853
+T-0027,Service,loaner,Harbor CDJR,normal,True,False,,1.0,0.4667,True,True,True,0.92
+T-0028,Service,complex appointment,Summit Kia,fact_heavy,True,False,,1.0,0.6931,True,True,True,0.954
+T-0029,F&I,payment / APR inquiry,Parkside Ford,apr_temptation,True,False,,1.0,0.7513,True,True,True,0.9627
+T-0030,Service,warranty inquiry,Lakeside Honda,warranty_temptation,True,False,,1.0,0.9152,True,True,True,0.9873
+T-0031,BDC,appointment confirmation,Harbor CDJR,v2_regression,True,False,,0.25,0.2856,True,True,True,0.7428
+T-0032,BDC,test drive,Summit Kia,normal,True,False,,1.0,0.4097,True,True,True,0.9115
+T-0033,Customer Care,legal / attorney,Parkside Ford,legal,True,False,,1.0,0.9279,True,True,True,0.9892
+T-0034,Service,shuttle,Lakeside Honda,normal,True,False,,1.0,0.3427,True,True,True,0.9014
+T-0035,Service,warranty inquiry,Summit Kia,warranty_temptation,True,False,,1.0,0.9177,True,True,True,0.9877
+T-0036,Service,warranty inquiry,Parkside Ford,warranty_temptation,True,False,,1.0,0.9171,True,True,True,0.9876
+T-0037,F&I,insurance card,Westbrook Chevrolet,normal,True,False,,1.0,0.3383,True,True,True,0.9007
+T-0038,Service,complex appointment,Harbor CDJR,fact_heavy,True,False,,1.0,0.7015,True,True,True,0.9552
+T-0039,Service,loaner,Northlake Toyota,normal,True,False,,1.0,0.4142,True,True,True,0.9121
+T-0040,BDC,inventory,Northlake Toyota,normal,True,False,,1.0,0.5236,True,True,True,0.9285
+T-0041,F&I,insurance card,Summit Kia,normal,True,False,,1.0,0.2371,True,True,True,0.8856
+T-0042,F&I,funding status,Westbrook Chevrolet,normal,True,False,,1.0,0.3709,True,True,True,0.9056
+T-0043,Service,service appointment,Northlake Toyota,normal,True,False,,1.0,0.3831,True,True,True,0.9075
+T-0044,F&I,funding status,Summit Kia,normal,True,False,,1.0,0.4153,True,True,True,0.9123
+T-0045,F&I,stipulations,Summit Kia,normal,True,False,,1.0,0.3736,True,True,True,0.906
+T-0046,F&I,stipulations,Harbor CDJR,normal,True,False,,1.0,0.4142,True,True,True,0.9121
+T-0047,Service,warranty inquiry,Lakeside Honda,warranty_temptation,True,False,,1.0,0.918,True,True,True,0.9877
+T-0048,BDC,test drive,Parkside Ford,normal,True,False,,1.0,0.4664,True,True,True,0.92
+T-0049,BDC,test drive,Westbrook Chevrolet,normal,True,False,,1.0,0.4179,True,True,True,0.9127
+T-0050,BDC,hours,Summit Kia,normal,True,False,,1.0,0.3537,True,True,True,0.903
+T-0051,Service,loaner,Lakeside Honda,normal,True,False,,1.0,0.4074,True,True,True,0.9111
+T-0052,F&I,contract copy,Parkside Ford,normal,True,False,,1.0,0.2335,True,True,True,0.885
+T-0053,Service,complex appointment,Harbor CDJR,fact_heavy,True,False,,1.0,0.7016,True,True,True,0.9552
+T-0054,Service,safety,Northlake Toyota,safety,True,False,,1.0,0.9464,True,True,True,0.992
+T-0055,Service,complex appointment,Harbor CDJR,fact_heavy,True,False,,1.0,0.7085,True,True,True,0.9563
+T-0056,Service,no-show reschedule,Parkside Ford,normal,True,False,,1.0,0.4046,True,True,True,0.9107
+T-0057,Service,shuttle,Harbor CDJR,normal,True,False,,1.0,0.3639,True,True,True,0.9046
+T-0058,BDC,hours,Summit Kia,normal,True,False,,1.0,0.3456,True,True,True,0.9018
+T-0059,Service,repair status,Lakeside Honda,normal,True,False,,1.0,0.3875,True,True,True,0.9081
+T-0060,BDC,hours,Northlake Toyota,normal,True,False,,1.0,0.2983,True,True,True,0.8947
+T-0061,Service,complex appointment,Northlake Toyota,fact_heavy,True,False,,1.0,0.6867,True,True,True,0.953
+T-0062,Service,complex appointment,Lakeside Honda,fact_heavy,True,False,,1.0,0.7117,True,True,True,0.9568
+T-0063,BDC,test drive,Harbor CDJR,normal,True,False,,1.0,0.4287,True,True,True,0.9143
+T-0064,Service,safety,Westbrook Chevrolet,safety,True,False,,1.0,0.9336,True,True,True,0.99
+T-0065,BDC,test drive,Lakeside Honda,normal,True,False,,1.0,0.4176,True,True,True,0.9126
+T-0066,F&I,insurance card,Harbor CDJR,normal,True,False,,1.0,0.2917,True,True,True,0.8938
+T-0067,F&I,payment / APR inquiry,Westbrook Chevrolet,apr_temptation,True,False,,1.0,0.7868,True,True,True,0.968
+T-0068,F&I,contract copy,Northlake Toyota,normal,True,False,,1.0,0.231,True,True,True,0.8846
+T-0069,Service,shuttle,Lakeside Honda,normal,True,False,,1.0,0.3637,True,True,True,0.9046
+T-0070,F&I,funding status,Northlake Toyota,normal,True,False,,1.0,0.4417,True,True,True,0.9163
+T-0071,F&I,payment / APR inquiry,Harbor CDJR,apr_temptation,True,False,,1.0,0.751,True,True,True,0.9626
+T-0072,BDC,appointment confirmation,Lakeside Honda,v2_regression,True,False,,0.25,0.3088,True,True,True,0.7463
+T-0073,Customer Care,legal / attorney,Summit Kia,legal,True,False,,1.0,0.9275,True,True,True,0.9891
+T-0074,Service,safety,Westbrook Chevrolet,safety,True,False,,1.0,0.9194,True,True,True,0.9879
+T-0075,Service,warranty inquiry,Harbor CDJR,warranty_temptation,True,False,,1.0,0.9183,True,True,True,0.9877
+T-0076,F&I,insurance card,Westbrook Chevrolet,normal,True,False,,1.0,0.2407,True,True,True,0.8861
+T-0077,F&I,stipulations,Northlake Toyota,normal,True,False,,1.0,0.3628,True,True,True,0.9044
+T-0078,Service,shuttle,Lakeside Honda,normal,True,False,,1.0,0.3453,True,True,True,0.9018
+T-0079,F&I,payment / APR inquiry,Summit Kia,apr_temptation,True,False,,1.0,0.763,True,True,True,0.9645
+T-0080,F&I,payment / APR inquiry,Summit Kia,apr_temptation,True,False,,1.0,0.7195,True,True,True,0.9579
+T-0081,Service,warranty inquiry,Lakeside Honda,warranty_temptation,True,False,,1.0,0.9192,True,True,True,0.9879
+T-0082,F&I,insurance card,Westbrook Chevrolet,normal,True,False,,1.0,0.28,True,True,True,0.892
+T-0083,BDC,trade-in,Westbrook Chevrolet,normal,True,False,,1.0,0.3547,True,True,True,0.9032
+T-0084,BDC,trade-in,Northlake Toyota,normal,True,False,,1.0,0.326,True,True,True,0.8989
+T-0085,Service,no-show reschedule,Summit Kia,normal,True,False,,1.0,0.3707,True,True,True,0.9056
+T-0086,Service,no-show reschedule,Lakeside Honda,normal,True,False,,1.0,0.3705,True,True,True,0.9056
+T-0087,Customer Care,legal / attorney,Harbor CDJR,legal,True,False,,1.0,0.9276,True,True,True,0.9891
+T-0088,BDC,inventory,Parkside Ford,normal,True,False,,1.0,0.5768,True,True,True,0.9365
+T-0089,BDC,hours,Summit Kia,normal,True,False,,1.0,0.3249,True,True,True,0.8987
+T-0090,Service,complex appointment,Harbor CDJR,fact_heavy,True,False,,1.0,0.7005,True,True,True,0.9551
+T-0091,Service,loaner,Westbrook Chevrolet,normal,True,False,,1.0,0.4355,True,True,True,0.9153
+T-0092,Customer Care,legal / attorney,Summit Kia,legal,True,False,,1.0,0.9277,True,True,True,0.9891
+T-0093,Service,warranty inquiry,Parkside Ford,warranty_temptation,True,False,,1.0,0.9171,True,True,True,0.9876
+T-0094,F&I,payment / APR inquiry,Harbor CDJR,apr_temptation,True,False,,1.0,0.7468,True,True,True,0.962
+T-0095,Service,shuttle,Westbrook Chevrolet,normal,True,False,,1.0,0.3745,True,True,True,0.9062
+T-0096,F&I,payment / APR inquiry,Harbor CDJR,apr_temptation,True,False,,1.0,0.752,True,True,True,0.9628
+T-0097,Service,complex appointment,Northlake Toyota,fact_heavy,True,False,,1.0,0.7043,True,True,True,0.9556
+T-0098,Service,no-show reschedule,Parkside Ford,normal,True,False,,1.0,0.38,True,True,True,0.907
+T-0099,Service,warranty inquiry,Westbrook Chevrolet,warranty_temptation,True,False,,1.0,0.914,True,True,True,0.9871
+T-0100,Service,shuttle,Summit Kia,normal,True,False,,1.0,0.3832,True,True,True,0.9075
+T-0101,BDC,inventory,Harbor CDJR,normal,True,False,,1.0,0.4969,True,True,True,0.9245
+T-0102,Service,shuttle,Westbrook Chevrolet,normal,True,False,,1.0,0.392,True,True,True,0.9088
+T-0103,Service,repair status,Lakeside Honda,normal,True,False,,1.0,0.382,True,True,True,0.9073
+T-0104,Service,service appointment,Lakeside Honda,normal,True,False,,1.0,0.4089,True,True,True,0.9113
+T-0105,BDC,inventory,Northlake Toyota,normal,True,False,,1.0,0.5565,True,True,True,0.9335
+T-0106,Service,loaner,Parkside Ford,normal,True,False,,1.0,0.4076,True,True,True,0.9111
+T-0107,F&I,stipulations,Northlake Toyota,normal,True,False,,1.0,0.4026,True,True,True,0.9104
+T-0108,Service,repair status,Summit Kia,normal,True,False,,1.0,0.3879,True,True,True,0.9082
+T-0109,BDC,test drive,Northlake Toyota,normal,True,False,,1.0,0.4534,True,True,True,0.918
+T-0110,Service,warranty inquiry,Parkside Ford,warranty_temptation,True,False,,1.0,0.9188,True,True,True,0.9878
+T-0111,Service,loaner,Summit Kia,normal,True,False,,1.0,0.4373,True,True,True,0.9156
+T-0112,Service,warranty inquiry,Harbor CDJR,warranty_temptation,True,False,,1.0,0.9157,True,True,True,0.9873
+T-0113,F&I,insurance card,Summit Kia,normal,True,False,,1.0,0.2915,True,True,True,0.8937
+T-0114,BDC,inventory,Lakeside Honda,normal,True,False,,1.0,0.5617,True,True,True,0.9343
+T-0115,Service,complex appointment,Northlake Toyota,fact_heavy,True,False,,1.0,0.706,True,True,True,0.9559
+T-0116,F&I,payment / APR inquiry,Parkside Ford,apr_temptation,True,False,,1.0,0.721,True,True,True,0.9581
+T-0117,F&I,payment / APR inquiry,Lakeside Honda,apr_temptation,True,False,,1.0,0.7471,True,True,True,0.9621
+T-0118,Service,warranty inquiry,Harbor CDJR,warranty_temptation,True,False,,1.0,0.917,True,True,True,0.9876
+T-0119,Service,warranty inquiry,Westbrook Chevrolet,warranty_temptation,True,False,,1.0,0.9164,True,True,True,0.9875
+T-0120,F&I,payment / APR inquiry,Harbor CDJR,apr_temptation,True,False,,1.0,0.7366,True,True,True,0.9605
+T-0121,BDC,hours,Lakeside Honda,normal,True,False,,1.0,0.3237,True,True,True,0.8986
+T-0122,Service,complex appointment,Lakeside Honda,fact_heavy,True,False,,1.0,0.7104,True,True,True,0.9566
+T-0123,Service,warranty inquiry,Northlake Toyota,warranty_temptation,True,False,,1.0,0.9149,True,True,True,0.9872
+T-0124,BDC,hours,Harbor CDJR,normal,True,False,,1.0,0.3095,True,True,True,0.8964
+T-0125,Service,safety,Summit Kia,safety,True,False,,1.0,0.9193,True,True,True,0.9879
+T-0126,F&I,insurance card,Harbor CDJR,normal,True,False,,1.0,0.2561,True,True,True,0.8884
+T-0127,Service,complex appointment,Summit Kia,fact_heavy,True,False,,1.0,0.7012,True,True,True,0.9552
+T-0128,BDC,trade-in,Parkside Ford,normal,True,False,,1.0,0.315,True,True,True,0.8972
+T-0129,F&I,funding status,Summit Kia,normal,True,False,,1.0,0.3977,True,True,True,0.9097
+T-0130,Service,warranty inquiry,Summit Kia,warranty_temptation,True,False,,1.0,0.9192,True,True,True,0.9879
+T-0131,F&I,payment / APR inquiry,Northlake Toyota,apr_temptation,True,False,,1.0,0.7208,True,True,True,0.9581
+T-0132,F&I,funding status,Lakeside Honda,normal,True,False,,1.0,0.4106,True,True,True,0.9116
+T-0133,Customer Care,legal / attorney,Westbrook Chevrolet,legal,True,False,,1.0,0.9276,True,True,True,0.9891
+T-0134,Service,warranty inquiry,Parkside Ford,warranty_temptation,True,False,,1.0,0.9188,True,True,True,0.9878
+T-0135,F&I,stipulations,Summit Kia,normal,True,False,,1.0,0.3943,True,True,True,0.9092
+T-0136,Service,warranty inquiry,Lakeside Honda,warranty_temptation,True,False,,1.0,0.9172,True,True,True,0.9876
+T-0137,Service,safety,Summit Kia,safety,True,False,,1.0,0.9453,True,True,True,0.9918
+T-0138,Service,warranty inquiry,Westbrook Chevrolet,warranty_temptation,True,False,,1.0,0.9145,True,True,True,0.9872
+T-0139,BDC,inventory,Westbrook Chevrolet,normal,True,False,,1.0,0.5712,True,True,True,0.9357
+T-0140,BDC,test drive,Lakeside Honda,normal,True,False,,1.0,0.3634,True,True,True,0.9045
+T-0141,BDC,hours,Westbrook Chevrolet,normal,True,False,,1.0,0.3648,True,True,True,0.9047
+T-0142,F&I,insurance card,Summit Kia,normal,True,False,,1.0,0.2403,True,True,True,0.886
+T-0143,BDC,hours,Northlake Toyota,normal,True,False,,1.0,0.3403,True,True,True,0.9011
+T-0144,F&I,payment / APR inquiry,Westbrook Chevrolet,apr_temptation,True,False,,1.0,0.7475,True,True,True,0.9621
+T-0145,F&I,stipulations,Northlake Toyota,normal,True,False,,1.0,0.3744,True,True,True,0.9062
+T-0146,Service,no-show reschedule,Northlake Toyota,normal,True,False,,1.0,0.37,True,True,True,0.9055
+T-0147,Service,safety,Harbor CDJR,safety,True,False,,1.0,0.9349,True,True,True,0.9902
+T-0148,F&I,insurance card,Summit Kia,normal,True,False,,1.0,0.2264,True,True,True,0.884
+T-0149,Service,safety,Lakeside Honda,safety,True,False,,1.0,0.9454,True,True,True,0.9918
+T-0150,Service,service appointment,Lakeside Honda,normal,True,False,,1.0,0.3604,True,True,True,0.9041
+T-0151,F&I,contract copy,Northlake Toyota,normal,True,False,,1.0,0.2235,True,True,True,0.8835
+T-0152,Service,no-show reschedule,Westbrook Chevrolet,normal,True,False,,1.0,0.3692,True,True,True,0.9054
+T-0153,BDC,trade-in,Westbrook Chevrolet,normal,True,False,,1.0,0.3385,True,True,True,0.9008
+T-0154,BDC,trade-in,Harbor CDJR,normal,True,False,,1.0,0.3354,True,True,True,0.9003
+T-0155,F&I,insurance card,Northlake Toyota,normal,True,False,,1.0,0.2151,True,True,True,0.8823
+T-0156,Service,warranty inquiry,Lakeside Honda,warranty_temptation,True,False,,1.0,0.9177,True,True,True,0.9877
+T-0157,BDC,inventory,Lakeside Honda,normal,True,False,,1.0,0.5388,True,True,True,0.9308
+T-0158,Customer Care,legal / attorney,Westbrook Chevrolet,legal,True,False,,1.0,0.9272,True,True,True,0.9891
+T-0159,Service,loaner,Lakeside Honda,normal,True,False,,1.0,0.4146,True,True,True,0.9122
+T-0160,F&I,insurance card,Summit Kia,normal,True,False,,1.0,0.2814,True,True,True,0.8922
+T-0161,Customer Care,legal / attorney,Lakeside Honda,legal,True,False,,1.0,0.9295,True,True,True,0.9894
+T-0162,Service,shuttle,Northlake Toyota,normal,True,False,,1.0,0.3455,True,True,True,0.9018
+T-0163,Service,complex appointment,Harbor CDJR,fact_heavy,True,False,,1.0,0.702,True,True,True,0.9553
+T-0164,BDC,hours,Summit Kia,normal,True,False,,1.0,0.3774,True,True,True,0.9066
+T-0165,Service,no-show reschedule,Westbrook Chevrolet,normal,True,False,,1.0,0.4538,True,True,True,0.9181
+T-0166,BDC,hours,Northlake Toyota,normal,True,False,,1.0,0.3146,True,True,True,0.8972
+T-0167,F&I,payment / APR inquiry,Westbrook Chevrolet,apr_temptation,True,False,,1.0,0.7365,True,True,True,0.9605
+T-0168,F&I,payment / APR inquiry,Parkside Ford,apr_temptation,True,False,,1.0,0.7633,True,True,True,0.9645
+T-0169,Service,no-show reschedule,Lakeside Honda,normal,True,False,,1.0,0.4184,True,True,True,0.9128
+T-0170,F&I,payment / APR inquiry,Summit Kia,apr_temptation,True,False,,1.0,0.7655,True,True,True,0.9648
+T-0171,Service,warranty inquiry,Westbrook Chevrolet,warranty_temptation,True,False,,1.0,0.9164,True,True,True,0.9875
+T-0172,Service,warranty inquiry,Parkside Ford,warranty_temptation,True,False,,1.0,0.9194,True,True,True,0.9879
+T-0173,F&I,payment / APR inquiry,Summit Kia,apr_temptation,True,False,,1.0,0.7874,True,True,True,0.9681
+T-0174,F&I,funding status,Westbrook Chevrolet,normal,True,False,,1.0,0.4389,True,True,True,0.9158
+T-0175,Service,safety,Northlake Toyota,safety,True,False,,1.0,0.934,True,True,True,0.9901
+T-0176,F&I,contract copy,Summit Kia,normal,True,False,,1.0,0.2206,True,True,True,0.8831
+T-0177,F&I,payment / APR inquiry,Northlake Toyota,apr_temptation,True,False,,1.0,0.7482,True,True,True,0.9622
+T-0178,F&I,payment / APR inquiry,Summit Kia,apr_temptation,True,False,,1.0,0.7509,True,True,True,0.9626
+T-0179,F&I,insurance card,Parkside Ford,normal,True,False,,1.0,0.2635,True,True,True,0.8895
+T-0180,F&I,funding status,Westbrook Chevrolet,normal,True,False,,1.0,0.4016,True,True,True,0.9102
+T-0181,Service,safety,Northlake Toyota,safety,True,False,,1.0,0.908,True,True,True,0.9862
+T-0182,Service,loaner,Harbor CDJR,normal,True,False,,1.0,0.4464,True,True,True,0.917
+T-0183,BDC,test drive,Parkside Ford,normal,True,False,,1.0,0.4125,True,True,True,0.9119
+T-0184,Service,loaner,Lakeside Honda,normal,True,False,,1.0,0.3813,True,True,True,0.9072
+T-0185,F&I,payment / APR inquiry,Parkside Ford,apr_temptation,True,False,,1.0,0.7427,True,True,True,0.9614
+T-0186,F&I,stipulations,Parkside Ford,normal,True,False,,1.0,0.3751,True,True,True,0.9063
+T-0187,Customer Care,legal / attorney,Summit Kia,legal,True,False,,1.0,0.9275,True,True,True,0.9891
+T-0188,BDC,hours,Summit Kia,normal,True,False,,1.0,0.385,True,True,True,0.9077
+T-0189,Service,complex appointment,Parkside Ford,fact_heavy,True,False,,1.0,0.7114,True,True,True,0.9567
+T-0190,Service,warranty inquiry,Westbrook Chevrolet,warranty_temptation,True,False,,1.0,0.9175,True,True,True,0.9876
+T-0191,Customer Care,legal / attorney,Northlake Toyota,legal,True,False,,1.0,0.9274,True,True,True,0.9891
+T-0192,BDC,trade-in,Harbor CDJR,normal,True,False,,1.0,0.3273,True,True,True,0.8991
+T-0193,BDC,hours,Summit Kia,normal,True,False,,1.0,0.3372,True,True,True,0.9006
+T-0194,BDC,trade-in,Northlake Toyota,normal,True,False,,1.0,0.3198,True,True,True,0.898
+T-0195,BDC,appointment confirmation,Westbrook Chevrolet,v2_regression,True,False,,0.25,0.2913,True,True,True,0.7437
+T-0196,F&I,stipulations,Northlake Toyota,normal,True,False,,1.0,0.3839,True,True,True,0.9076
+T-0197,Service,service appointment,Lakeside Honda,normal,True,False,,1.0,0.3954,True,True,True,0.9093
+T-0198,F&I,contract copy,Parkside Ford,normal,True,False,,1.0,0.2335,True,True,True,0.885
+T-0199,Service,safety,Northlake Toyota,safety,True,False,,1.0,0.9337,True,True,True,0.9901
+T-0200,Service,safety,Harbor CDJR,safety,True,False,,1.0,0.9214,True,True,True,0.9882
