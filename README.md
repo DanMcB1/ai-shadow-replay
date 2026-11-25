@@ -1,5 +1,7 @@
 # Historical Shadow Replay Harness
 
+**Portfolio project #10 of 12** from [@suraj_sharma14's FDE project list](https://x.com/suraj_sharma14/status/2125197762752806998).
+
 A small, local demo that **replays historical support tickets through a candidate AI agent in shadow mode**, scores the replies against what a human actually said, and produces a go / no-go readiness call before anything is shown to a customer.
 
 This is a **portfolio demo**, not production software. The tickets are fictional. The default agents are local rule-based mocks, not a live model. No customer ever sees the AI output. The rubric is a deterministic checklist, not a certified QA process.
